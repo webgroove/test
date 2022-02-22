@@ -1,2 +1,2 @@
 # test
-テス
+テスト（GitHub）

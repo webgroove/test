@@ -1,2 +1,2 @@
 # test
-テスト（GitHub）
+テスト GitHub

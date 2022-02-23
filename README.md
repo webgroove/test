@@ -1,2 +1,2 @@
 # test
-テスト GitHub
+GitHub からの変更
